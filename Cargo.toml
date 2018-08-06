@@ -1,0 +1,6 @@
+[package]
+name = "discord-cli"
+version = "0.1.0"
+authors = ["Noskcaj <kcajdev@gmail.com>"]
+
+[dependencies]
